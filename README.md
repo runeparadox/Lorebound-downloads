@@ -3,6 +3,10 @@
 A Windows worldbuilding companion for tabletop campaigns: organize your wiki,
 keep a personal journal, create a custom calendar, and generate names.
 
+**Includes Lorebound Preview:** open the welcome-page button for your own editable
+example world and custom calendar. You can change, rename, and share your copy;
+updates preserve your work.
+
 **[Download the Windows beta](https://github.com/runeparadox/Lorebound-downloads/releases)**
 
 Choose **Lorebound-Setup.exe** for normal installation. No Python installation
